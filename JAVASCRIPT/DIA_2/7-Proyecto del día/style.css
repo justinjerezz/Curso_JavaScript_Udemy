@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(27, 84, 121);
+    font-family: monospace;
+}
+
+.tituloPortada{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+
+.contenidoPortada{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.contenidoPortada > h2{
+    text-decoration: underline;
+}
+
+#parrafoAccesoPerfil{
+    font-weight: bold;
+}
+
+a[href*=".html"]{
+    color: yellow;
+}
+
+
+img{
+    width: 40%;
+    border: 5px solid white;
+    padding: 10px;
+}
+
+#informacionPersonal{
+    text-align: center;
+    font-size: 15px;
+    border: 1px solid;
+    padding: 20px;
+    font-weight: bold;
+}

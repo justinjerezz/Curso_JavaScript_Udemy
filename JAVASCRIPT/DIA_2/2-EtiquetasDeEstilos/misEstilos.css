@@ -1,0 +1,11 @@
+h1 {
+    color: white;
+    font-family: monospace;
+    background-color: black;
+}
+
+p {
+    color: rgb(255, 3, 3);
+    border: 1px;
+    border-style: solid;
+}

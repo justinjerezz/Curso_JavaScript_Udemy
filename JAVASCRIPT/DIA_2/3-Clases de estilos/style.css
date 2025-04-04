@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.titulo2{
+    color: yellow;
+    background-color: black;
+}
+
+p{
+    color: blueviolet;
+}
+
+.parrafo1{
+    color: aqua;
+}
+.parrafo2{
+    color: rgb(64, 255, 0);
+}
+.parrafo3{
+    color: rgb(255, 0, 64);
+}
